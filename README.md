@@ -1,3 +1,3 @@
-# bulk-blogspot-availability-checker
+#Best bulk-blogspot-availability-checker
 
 Best Python based Bulk Blogspot Availability Checker.
