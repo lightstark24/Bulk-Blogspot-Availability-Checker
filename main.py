@@ -1,4 +1,4 @@
-import requests
+import requests #importing  lib
 from bs4 import BeautifulSoup
 
 url_file = open('urls.txt', 'r')
