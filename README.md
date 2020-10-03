@@ -1,3 +1,3 @@
-#Best bulk-blogspot-availability-checker
+# Bulk Blogspot Subdomain Availibitly Checker
 
-Best Python based Bulk Blogspot Availability Checker.
+Coming soon........
