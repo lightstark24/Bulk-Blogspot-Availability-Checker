@@ -1,3 +1,3 @@
-# Bulk Blogspot Subdomain Availibitly Checker
+# Bulk Blogspot Subdomain Availability Checker
 
 Coming soon........
